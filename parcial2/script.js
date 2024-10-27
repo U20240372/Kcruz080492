@@ -1,3 +1,5 @@
+// Oscar Iván Murillo Hidalgo.
+
 // Seleccionamos el elemento h1 y los botones por sus IDs
 const titulo = document.getElementById('titulo');
 const btnCambiarTexto = document.getElementById('btnCambiarTexto');
